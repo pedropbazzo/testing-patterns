@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/juristr/angular-testing-recipes.svg?branch=master)](https://travis-ci.org/juristr/angular-testing-recipes)
 
+[**View Testing Components**](./src/assets/Seleção_099.png)
 
 The goal of this repository is to have a collection of recipes for common testing scenarios with Angular. I'm happy for every contribution/suggestion :smiley:.
 
