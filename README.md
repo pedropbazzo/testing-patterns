@@ -54,7 +54,7 @@ All the scenarios are listed here below and nicely linked to the source file.
 
 ## [pt-br] Artigo sobre teste em Angular
 
-* [:🇧🇷: Teste em Angular por Pedro P. Bazzo]https://pedropbazzo.medium.com/https-angular-ioexemplos-f%C3%A1ceis-de-seguir-usando-testbed-fixtures-async-e-fakeasync-tick-63c60676602
+* [🇧🇷 Teste em Angular por Pedro P. Bazzo](https://pedropbazzo.medium.com/https-angular-ioexemplos-f%C3%A1ceis-de-seguir-usando-testbed-fixtures-async-e-fakeasync-tick-63c60676602)
 
 ## Run them yourself
 
