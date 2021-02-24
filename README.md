@@ -52,6 +52,10 @@ All the scenarios are listed here below and nicely linked to the source file.
 * [:notebook: Essential Angular Testing by Nrwl](https://blog.nrwl.io/essential-angular-testing-192315f8be9b#.undqs5icx)
 * [:notebook: Three Ways to Test Angular 2 Components by Victor Savkin](https://vsavkin.com/three-ways-to-test-angular-2-components-dcea8e90bd8d#.hif9f24b5)
 
+## [pt-br] Artigo sobre teste em Angular
+
+🇧🇷 * [:notebook: Teste em Angular por Pedro P. Bazzo]https://pedropbazzo.medium.com/https-angular-ioexemplos-f%C3%A1ceis-de-seguir-usando-testbed-fixtures-async-e-fakeasync-tick-63c60676602
+
 ## Run them yourself
 
 If you want to run the example locally,
